@@ -1,12 +1,12 @@
 # Wave_Spectral_Analysis
 This assignment focused on analyzing wave behavior in a specified Global Wave Statistics (GWS) area using various seakeeping and marine engineering techniques. The goal was to understand and quantify wave characteristics, which are crucial for ship design, offshore platform stability, and overall safety in maritime operations.
 
-The key tasks were as follows:
+### The key tasks were as follows:
 
-Histogram of Significant Wave Heights:
+#### Histogram of Significant Wave Heights:
     The first part of the assignment involved drawing a histogram of significant wave heights for the selected GWS area. This graphical representation provided a clear visual of the distribution and frequency of wave heights, helping to identify the most common wave sizes encountered in the region.
 
-Sea Spectra and Ideal Conditions:
+#### Sea Spectra and Ideal Conditions:
     Next, I calculated the most probable wave height and zero crossing period for the GWS area. Using these values, I determined the ideal sea spectra, which was then represented graphically. This helped in visualizing the energy distribution of waves at different frequencies, which is essential for understanding the impact of waves on ship dynamics.
 
 Numerical Calculation of Spectral Moments (m₀, m₁, m₂):
