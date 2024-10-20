@@ -4,14 +4,16 @@ This assignment focused on analyzing wave behavior in a specified Global Wave St
 ### The key tasks were as follows:
 
 #### Histogram of Significant Wave Heights:
-    The first part of the assignment involved drawing a histogram of significant wave heights for the selected GWS area. This graphical representation provided a clear visual of the distribution and frequency of wave heights, helping to identify the most common wave sizes encountered in the region.
+
+The first part of the assignment involved drawing a histogram of significant wave heights for the selected GWS area. This graphical representation provided a clear visual of the distribution and frequency of wave heights, helping to identify the most common wave sizes encountered in the region.
 
 **1. Sea Spectra and Ideal Conditions:**
 
 Next, I calculated the most probable wave height and zero crossing period for the GWS area. Using these values, I determined the ideal sea spectra, which was then represented graphically. This helped in visualizing the energy distribution of waves at different frequencies, which is essential for understanding the impact of waves on ship dynamics.
 
 **2. Numerical Calculation of Spectral Moments (m₀, m₁, m₂):**
-    Spectral moments are key statistical properties used to describe wave spectra. In this part, I numerically computed the spectral moments m₀, m₁, and m₂, which provided important insights into wave energy distribution, the average period of waves, and other sea state characteristics.
+
+\nSpectral moments are key statistical properties used to describe wave spectra. In this part, I numerically computed the spectral moments m₀, m₁, and m₂, which provided important insights into wave energy distribution, the average period of waves, and other sea state characteristics.
 
 **3. Importance of Correct Frequency Intervals in Numerical Integration:**
     I discussed the significance of choosing the correct frequency intervals during numerical integration. This is vital because the accuracy of spectral moments and wave predictions depends on the precision of the integration process. Incorrect intervals can lead to errors in estimating wave heights and periods, which can affect seakeeping assessments and design calculations.
